@@ -1,27 +1,79 @@
 .header{
-	background-color:yellow;
-	min-height: 70px;
-}
-.wrapper{
+	
+	background-color:#3C5A8D;
 	overflow:hidden;
 }
+.logo{
+	border:5px solid green;
+	width:15%;
+	min-height:100px;
+	float:left;
+}
+.menu{
+	border:5px solid green;
+	width:65%;
+	min-height:100px;
+	float:right;
+}.sec1{
+	border:1px solid black;
+	width:20%;
+	min-height:100px;
+	float:right;
+}
+.banner{
+	background-color: #BBE3FF;
+	overflow:hidden;
+}
+.banner_content{
+	width:40%;
+	min-height:200px;
+	border:2px solid red;
+	margin:50px auto;
+}
+.services{
+	min-height:300px;
+	background-color:#5C514D;
+	padding:20px 5px;
+}
+.service{
+	border:1px solid red;
+	min-height:180px;
+	margin-bottom: 10px;
+}
+.service1{
+	width:20%;
+	float:left;
+	min-height:160px;
+	border:1px solid white;
+	padding:10px;
+}
+.icon{
+	border:1px solid white;
+	overflow:hidden;
+	background-color: aqua
+}
+.part1{
+	float:left;
+	width:25%;
+	background-color:#5C514D;
+	min-height:40px;
+}
+.part2{
+	float:left;
+	width:40%;
+}
+.content{
+	border:1px slid white;
+	min-height:100px;
+}
+.div1{
+	background-color: red;
+	min-height:50px;
+}
+.div2{
+	background-color: blue;
+	min-height:50px;
 .contact{
-    background-color:red;
-    min-height: 150px;
-    width:50%;
-    float: left;
-}
-.blog{
-    
-    background-color:blue;
-    min-height: 150px;
-    width:50%;
-     float: right;
-
-}
-.footer{
-	 background-color:black;
-    min-height: 100px;
-    
-}
-display: inline-block;
+	border:1px solid red;
+	min-height:120px;
+}s
